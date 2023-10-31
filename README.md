@@ -26,3 +26,12 @@ Notes
 
     Verify that the specified geographic bounds for the DEM processing are accurate.
     After this, you will be able to get slope and curvature data from DEM.
+
+Example
+
+![Location](https://github.com/dpuhar/NS-DEM/blob/main/images/NS-SRB.jpg)
+
+
+
+![Results](https://github.com/dpuhar/NS-DEM/blob/main/images/NS-area.jpg)
+
